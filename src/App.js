@@ -8,7 +8,14 @@ const emojiDictionary = {
   "🙂": "passive-aggressive",
   "😂": " funny",
   "😅": "discomfort",
-  "😍": "adoration"
+  "😍": "adoration",
+  "😄": " general happiness",
+  "🤩": "exicted",
+  "🥰": "affectionate",
+  "😐": " mild irritation",
+  "🤔": "puzzled,skeptical",
+  "😒": "displeasure",
+  "🙄": "disapproval"
 };
 
 const emojiWeKnow = Object.keys(emojiDictionary);
